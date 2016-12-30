@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="ua.r4mstein.mathforkids.MainActivity">
+
+    <item
+        android:id="@+id/action_multiply"
+        android:orderInCategory="100"
+        android:title="@string/multiply"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_subtraction"
+        android:orderInCategory="100"
+        android:title="@string/subtraction"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_multiplication"
+        android:orderInCategory="100"
+        android:title="@string/multiplication"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_division"
+        android:orderInCategory="100"
+        android:title="@string/division"
+        app:showAsAction="never"/>
+</menu>

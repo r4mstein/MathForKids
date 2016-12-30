@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Math for Kids</string>
+    <string name="action_settings">Settings</string>
+    <string name="multiply">Multiply</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="right_answers">Right Answers: 0</string>
+    <string name="wrong_answers">Wrong Answers: 0</string>
+</resources>

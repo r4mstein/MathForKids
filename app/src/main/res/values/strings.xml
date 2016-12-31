@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Math for Kids</string>
     <string name="action_settings">Settings</string>
-    <string name="multiply">Multiply</string>
+    <string name="adding">Adding</string>
     <string name="subtraction">Subtraction</string>
     <string name="multiplication">Multiplication</string>
     <string name="division">Division</string>

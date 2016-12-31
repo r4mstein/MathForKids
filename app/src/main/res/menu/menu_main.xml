@@ -6,7 +6,7 @@
     <item
         android:id="@+id/action_multiply"
         android:orderInCategory="100"
-        android:title="@string/multiply"
+        android:title="@string/adding"
         app:showAsAction="never"/>
 
     <item
